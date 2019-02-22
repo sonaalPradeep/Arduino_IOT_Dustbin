@@ -1,3 +1,4 @@
 # Arduino_IOT_Dustbin
-                    - by Sonaal P. Pradeep
+Arduino_IOT_Dustbin
+            - by Sonaal P. Pradeep
 
