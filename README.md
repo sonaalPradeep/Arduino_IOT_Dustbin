@@ -4,7 +4,7 @@ Arduino IOT Project
 
 ### Introduction
 
-An ancient chinese saying says that...
+An ancient chinese proverb says that...
  > "There are many paths, but the only one that leads to the top of the mountain, is the one you make yourself."
 
 
