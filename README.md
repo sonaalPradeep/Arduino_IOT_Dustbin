@@ -1,3 +1,6 @@
-## Arduino_IOT_Dustbin
-            - by Sonaal P. Pradeep
+Arduino IOT Project
+===================
+project by Sonaal P. Pradeep
+            
+   
 
