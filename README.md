@@ -14,7 +14,7 @@ This project was made for our Environmental Studies course, to show a way in whi
 
 For this project, I used...
 1. Arduino Uno
-2. BLuetooth module
+2. Bluetooth module
 3. Ultrasonic sensor
 4. Breadboard
 5. Connecting wires
