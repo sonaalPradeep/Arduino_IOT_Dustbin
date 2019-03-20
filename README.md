@@ -42,7 +42,7 @@ Upload the code to the arduino board. (Note! : The Rx port needs to be open whil
 
 Connect the bluetooth module to your phone (use any Arduino Bluetooth Controller App).
 
-Press the reset button to start the program fromt he top.
+Press the reset button to start the program from the top.
 
 ### Working of the program
 After starting the program, both the red and the green LED's will glow. This indicates that the controller hasn't been configured for the dustbin, and needs to be done so.
