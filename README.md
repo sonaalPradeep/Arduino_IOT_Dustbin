@@ -66,5 +66,5 @@ The DHT11 module is primarily used for monitoring the temperature, although it c
 
 ### Conclusions
 
-* I have learnt a lot from the development of this app. I have learnt how to use the arduino board effectively, and have tried to use the modules to the best of its capabilities.
-* Anyone who has the initiative can help be the change to save the environment.
+* I have learnt a lot from the development of this program. I've learnt how to use the arduino board effectively, and have tried to use the modules to the best of its capabilities.
+* I was able to understand that anyone who has the vision to do something for the society or the environment around them, and takes the first few steps will always set an example to the people around them. Saving the enivornment is not limited to just a few set of people, it is the responsibilty of an individual. And it is the responsibilty of an individual to set an example.
