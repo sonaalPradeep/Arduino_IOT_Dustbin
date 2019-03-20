@@ -8,7 +8,7 @@ An ancient chinese proverb says that...
  > "There are many paths, but the only one that leads to the top of the mountain, is the one you make yourself."
 
 
-This project was made for our Environmental Studies course, to show that there are many ways CSED students could implement solutions to help save the environment. Our project involved implementing a very simple version of the 'smart bin', the new and modern dustin which were implemented in Singapore, and yet to deployed in other places around the world. The original dustbin were more advanced, having solar panels, transmitters, compressors to mention some of them. But with this project, I wish to implement just the basic operation, which is to send a message to your phone if the dustbin gets close to getting filled. Other minor features were added later on.
+This project was made for our Environmental Studies course, to show that there are many ways CSED students could implement solutions to help save the environment. Our project involved implementing a very simple version of the 'smart bin', the new and modern dustin which were implemented in Singapore, and yet to be deployed in other places around the world. The original dustbins were more advanced, having solar panels, transmitters, compressors to mention some of them. But with this project, I wish to implement just the basic operation, which is to send a message to your phone if the dustbin gets close to getting filled. Other minor features were added later on.
 
 ### Implementation
 
