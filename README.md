@@ -32,7 +32,7 @@ Red LED                       : 11
 Green LED                     : 10
 Tilt Switch                   : 8
 Signal Pin of temp. sensor    : A0
-BLuetooth Rx                  : Tx
+Bluetooth Rx                  : Tx
 Bluetooth Tx                  : Rx
 Button Switch                 : Reset
 
@@ -57,7 +57,7 @@ Pressing the '2' key resets the dustbin to a good mode. This can be used to rese
 
 Pressing the '3' key resets the microcontroller to its factory settings. If the button switch is installed, press it to obtain similar results.
 
-The DHT11 module is primarily used for monitoring the temperature, although it can even return the humidity as well. The board has been set up to return a warning and caution message if the temperature rises above 40°C or the humidity rises above 85%. Both are high deviations from normal conditions, wherein a temperature rise above 40°C could imply a fire in the dustbin caused, for example, by a ciggerate. 
+The DHT11 module is primarily used for monitoring the temperature, although it can even return the humidity as well. The board has been set up to return a warning and caution message if the temperature rises above 40°C or the humidity rises above 85%. Both are high deviations from normal conditions, wherein a temperature rise above 40°C could imply a fire in the dustbin caused, for example, by a cigarette. 
 
 ### Scope for possible upgrades...
 
