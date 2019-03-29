@@ -59,7 +59,7 @@ Pressing the '3' key resets the microcontroller to its factory settings. If the 
 
 The DHT11 module is primarily used for monitoring the temperature, although it can even return the humidity as well. The board has been set up to return a warning and caution message if the temperature rises above 40°C or the humidity rises above 85%. Both are high deviations from normal conditions, wherein a temperature rise above 40°C could imply a fire in the dustbin caused, for example, by a cigarette. 
 
-### Scope for possible upgrades...
+### Scope for possible upgrades
 
 * Using a GSM, Wifi module would make it more convinient, so that the app needn't always be connected to the bluetooth module. Using an RF module would give it longer range, but requires a line of sight.
 * A seperate app, which would eventually lead to ways for further development.
