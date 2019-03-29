@@ -61,7 +61,7 @@ The DHT11 module is primarily used for monitoring the temperature, although it c
 
 ### Scope for possible upgrades
 
-* Using a GSM, Wifi module would make it more convinient, so that the app needn't always be connected to the bluetooth module. Using an RF module would give it longer range, but requires a line of sight.
+* Using a GSM, Wifi module would make it more convenient, so that the app needn't always be connected to the bluetooth module. Using an RF module would give it longer range, but requires a line of sight.
 * A seperate app, which would eventually lead to ways for further development.
 
 ### Conclusions
